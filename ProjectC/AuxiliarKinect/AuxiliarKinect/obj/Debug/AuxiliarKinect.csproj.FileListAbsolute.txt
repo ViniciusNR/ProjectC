@@ -1,0 +1,8 @@
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll.CodeAnalysisLog.xml
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll.lastcodeanalysissucceeded
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb

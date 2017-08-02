@@ -1,1 +1,1 @@
-{"info-basicas":{"nomeSoftware":"nome","autores":"Vinicius","versao":"2.0.3","descricao":"descricao"},"metadados":[{"valor":"11","nome":"1"},{"valor":"22","nome":"2"},{"valor":"33","nome":"3"},{"valor":"44","nome":"4"},{"valor":"valor","nome":"nome"}]}
+{"metadados":[{"valor":"11","nome":"1"},{"valor":"22","nome":"2"},{"valor":"33","nome":"3"},{"valor":"44","nome":"4"},{"valor":"TESTE","nome":"nome"}],"infoBasicas":{"nomeSoftware":"","autores":"","versao":"","descricao":""}}
